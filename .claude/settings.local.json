@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rtk tsc:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx vite:*)",
+      "Bash(rm /c/Users/abond/repos/gps-vendor-ica/src/logoB64.ts.tmp)",
+      "Bash(python3:*)"
+    ]
+  }
+}
